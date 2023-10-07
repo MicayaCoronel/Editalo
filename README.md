@@ -12,7 +12,8 @@
 7. :octocat:
 8. 🦋   
 
+```javascript
 function test(){
 console.log(" dialogue ");
-
 }
+```
