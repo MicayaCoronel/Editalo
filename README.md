@@ -17,3 +17,8 @@ function test(){
 console.log(" dialogue ");
 }
 ```
+
+frutas | verduras
+-------|----------
+manzana | lechuga
+naranja | morrón
